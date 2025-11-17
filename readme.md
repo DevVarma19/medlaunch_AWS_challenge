@@ -319,12 +319,6 @@ This combination showcases real-world cloud engineering thinking across ingestio
 
 ---
 
-# 🎥 **Demo Video**
-
-_(Insert Loom/YouTube link here)_
-
----
-
 # 🙏 **Acknowledgements**
 
 This project was developed with assistance from generative AI tools, which were used for:
